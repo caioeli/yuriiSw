@@ -1,10 +1,10 @@
-<h1>HEY HEY! Tudo Bom Contigo? ^^<h1/>
+<h1>HEY HEY! Tudo Bom Contigo? ^^</h1>
  <h2>-  🔭 [ Atualmente cursando Técnico em Informatica ]
    
 -  📚  ( Estudando PHP e JS )
   
 -   😄 < Pronomes: ele/dele >
-  <h2/>
+  </h2>
 <br>
 
 
