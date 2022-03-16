@@ -12,8 +12,8 @@
 <br>
 <div align="center">
   <a href="https://github.com/yuriiSw">
-  <img height="180m" src="https://github-readme-stats.vercel.app/api?username=yuriiSw&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180m" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuriiSw&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="160m" src="https://github-readme-stats.vercel.app/api?username=yuriiSw&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160m" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuriiSw&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
   <div style="display: inline_block"><br>
