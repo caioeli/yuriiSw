@@ -1,4 +1,4 @@
-<h1>HEY HEY! Tudo Bom Contigo? ^^</h1>
+<h1>HEY HEY! Tudo Bom Contigo? :D </h1>
  <h4>
  
  -    🔭  Atualmente cursando Técnico em Informatica    
